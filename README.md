@@ -1,2 +1,2 @@
-# Pw-Python-Basic-Assignment-1
+Python_Basic
 Python Basic Assignment
